@@ -39,8 +39,7 @@
     "sqlite3": "^3.1.8"
   },
   "dependencies": {
-    "apollo-engine":
-      "https://s3.us-east-2.amazonaws.com/apollo-engine-deploy/apollo-engine-0.3.5.tgz",
+    "apollo-engine": "0.4.7",
     "apollo-server-express": "^1.1.2",
     "babel-cli": "6.23.0",
     "babel-core": "6.24.1",
