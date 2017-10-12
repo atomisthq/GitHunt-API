@@ -54,4 +54,4 @@ Please submit a pull request if you see anything that can be improved!
   npm run dev
   ```
 
-7. **Open the app.** Open http://localhost:3010/ to see what to do next.
+7. **Open the app.** Open http://localhost:3000/ to see what to do next.

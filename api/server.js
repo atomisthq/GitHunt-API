@@ -34,7 +34,7 @@ const WS_GQL_PATH = '/subscriptions';
 export function run({
                       OPTICS_API_KEY,
                       ENGINE_API_KEY,
-                      PORT: portFromEnv = 3010,
+                      PORT: portFromEnv = 3000,
                     } = {}) {
   if (OPTICS_API_KEY) {
     OpticsAgent.instrumentSchema(schema);
